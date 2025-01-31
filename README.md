@@ -1,7 +1,6 @@
-1- 👋 Hi, I’m @Cheerfulhamstere
+- 👋 Hi, I’m @Cheerfulhamstere
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate 
 
 <!---
 Cheerfulhamstere/Cheerfulhamstere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
